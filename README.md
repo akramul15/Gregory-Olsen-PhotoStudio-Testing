@@ -10,7 +10,7 @@ This repository showcases a comprehensive functional and GUI testing suite condu
 ## 2. Testing Scope & Methodology
 The testing process followed a structured lifecycle, utilizing professional industry tools to simulate real-world QA environments.
 
-*   **Functional Testing:** Verified core user flows such as account registration, session booking, and shopping cart logic.
+*   **Functional Testing:** Validated core session booking flows, payment gateway integration and the accuracy of complex pricing logic across multiple service tiers.
 *   **GUI Testing:** Assessed visual layout, typography, and responsiveness across Google Chrome and mobile viewports.
 *   **Defect Tracking:** Managed the full bug lifecycle using **JIRA**, from initial discovery to technical reporting.
 
@@ -19,10 +19,10 @@ The testing process followed a structured lifecycle, utilizing professional indu
 ## 3. Repository Structure
 The following artifacts are included in this repository to provide evidence of the testing process:
 
-*   **`Requirements.pdf`**: The technical and functional specifications that served as the basis for all test cases.
-*   **`Acceptance Sheet.xlsx`**: A detailed traceability matrix mapping requirements to test outcomes.
+*   **`Requirements.pdf`**: The technical and functional specifications that served as the basis for all test.
+*   **`Acceptance Sheet.xlsx`**: Log of test execution including build information and environment configuration.
 *   **`GregOlsen.PhotoStudio (JIRA Bug Tickets).pdf`**: Comprehensive reports of all logged defects, including steps to reproduce and severity levels.
-*   **`Test-Survey.xlsx`**: Contains the core testing plan, environment details (OS/Browser), and the final results specific to the Lifestyle Gallery module.
+*   **`Test-Survey.xlsx`**: Contains the core testing plan and the final results specific to the Lifestyle Gallery module.
 
 
 ---
